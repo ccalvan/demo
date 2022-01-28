@@ -2,4 +2,6 @@ import numpy as np
 
 A = np.ones()
 
-print(A)
+B = np.zeros()
+
+print(B)
